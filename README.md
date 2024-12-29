@@ -10,7 +10,7 @@
 
 
 ### Prpject: LED BLINKING WITH ARDUINO
-
+![image alt](https://github.com/pavankum123/codetech-task1/blob/71039a2df84e4fc5051157e61e9198ff699bb1fc/Screenshot%202024-12-29%20123306.jpg)
 
 ### Objective
 Introduce and demonstrate fundamental concepts of embedded systems and microcontroller programming. 
