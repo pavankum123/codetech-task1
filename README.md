@@ -12,7 +12,6 @@
 ### Prpject: LED BLINKING WITH ARDUINO
 
 
-
 ### Objective
 Introduce and demonstrate fundamental concepts of embedded systems and microcontroller programming. 
 Learn the syntax and structure of Arduino code, including functions like setup(), loop(), and how to control hardware with digitalWrite() and delay().
