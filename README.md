@@ -3,7 +3,7 @@
 **ID**: CT12WDDU
 **Domain**: EMBEDDED SYSTEMS
 **Duration**: December 9,2024 to March 29,2025
-**Mentor**:
+**Mentor**: 
 
 
 ## Overview of the Project
